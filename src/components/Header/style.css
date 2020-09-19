@@ -1,0 +1,13 @@
+.main-header {
+    width: 900px;
+    margin: 20px auto;  
+    background:  #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-weight: bold;
+    font-size: 18px;
+    padding: 15px;
+    border: 1px solid #f0f0f6;
+    border-radius: 5px;
+}
